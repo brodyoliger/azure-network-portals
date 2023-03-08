@@ -22,10 +22,9 @@ In this explanation various types of network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Created the environments for the traffic to be examined in
+- Downloaded network traffic viewing software within Virtual Machine
+- Began triggering traffic over different network protocols and filtering to see each protocol
 
 <h2>Actions and Observations</h2>
 
