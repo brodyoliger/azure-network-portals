@@ -9,7 +9,7 @@ In this explanation various types of network traffic to and from Azure Virtual M
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machine)
+- Microsoft Azure (Windows Virtual Machine)
 - Remote Desktop
 - Various Command-Line Tools
 - Various Network Protocols
